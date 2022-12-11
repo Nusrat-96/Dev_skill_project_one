@@ -9,6 +9,7 @@ b)  Computer turns on but displays nothing
 c) Computer screen freezes
 d) The blue screen of death
 ………..
+
 Select: d
 Output:
 Solutin of problem (d):
