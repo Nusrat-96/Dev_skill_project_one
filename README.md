@@ -11,7 +11,7 @@ d) The blue screen of death
 ………..
 Select: d
 Output:
-Steps you can take:
+Solutin of problem (d):
 a)  Check that there is enough space for updates
 b) Scan your system for viruses
 c) Update your hardware drivers
