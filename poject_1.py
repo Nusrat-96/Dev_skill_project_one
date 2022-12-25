@@ -312,8 +312,6 @@ if user_info_include =="1":
         else:
             print("\nInformation Not Found\n")
             break
-else:
-    print("-"*100,"\nTake your action to solve your problem. GOOD LUCK!!\n",'-'*100)
 
 
 print("-"*100,"\nEnd! GOOD LUCK!!\n",'-'*100)
