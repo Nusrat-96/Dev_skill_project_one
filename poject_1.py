@@ -12,7 +12,9 @@ for _ in range (int(input("Enter the number of time you want's to run the progra
     """=========================================================================================================================
                                 User Information Class
     =========================================================================================================================="""
+    
     class user_iformation():
+        
         def __init__(self, user_name ="", user_address="", user_mobile="", laptop_model = "") -> None:
             self.user_name = user_name
             self.user_address = user_address
@@ -41,6 +43,7 @@ for _ in range (int(input("Enter the number of time you want's to run the progra
 
 
     class computer_information(user_iformation):                                #Class Inheritance
+        
         def __init__(self, user_name="", user_address="", user_mobile="", 
         laptop_model="",laptop_RAM_info="", laptop_core_i="", laptop_problem="" ) -> None:
             super().__init__(user_name, user_address, user_mobile, laptop_model)
@@ -84,6 +87,7 @@ for _ in range (int(input("Enter the number of time you want's to run the progra
     ------------------------------------------------------------------------------------"""
 
     class Troubleshooting:
+        
         def solution_a():
             solution= "i)If your entire keyboard stops working all of a sudden: can be a motherboard issue instead\n"\
             "ii) Some keys are not responding or outputting random characters, while other keys work normally: keyboard become faulty\n"\
@@ -100,7 +104,6 @@ for _ in range (int(input("Enter the number of time you want's to run the progra
             print (solution)
             cost = "200"
             return cost
-
 
         def solution_c():
             solution="1. Deleting bad registry files\n"\
