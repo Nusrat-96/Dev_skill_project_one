@@ -25,3 +25,5 @@ c) Update your hardware drivers
 d) Return BIOS settings to their default levels.
 
 Cost to fix the problem within 7 days is 700 taka
+
+If user want to see her information stored or not, she can also check it provide her username and laptop model
